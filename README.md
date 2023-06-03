@@ -7,9 +7,9 @@
 - High quality downloads.
 
 ## Download
-- 🟣 **[Executable]()**
-- 🟡 **[Python Script]()**
-- 🔵 **[MSI]()**
+- 🟣 **[Portable](https://raw.githubusercontent.com/Llyr4472/downloads/main/Fetcher_exe.zip)**
+- 🟡 **[Python Script](https://raw.githubusercontent.com/Llyr4472/downloads/main/Fetcher.zip)**
+- 🔵 **[MSI](https://raw.githubusercontent.com/Llyr4472/downloads/main/Fetcher.msi)**
 
 ## To do
 - Add support for insta videos.
@@ -21,4 +21,6 @@
 ![list](.assets/1.png)
 ![single](.assets/2.png)
 
+<br>
 
+**[Discord](https://discord.gg/yMrY5CzGne)**
